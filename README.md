@@ -9,7 +9,11 @@
 * ...
 
 ### Screenshots
-
+![home_page](https://github.com/Bekhongbikcode/Web-Film-Using-React/blob/master/screenshots/Screenshot%20(786).png)
+![about_page](https://github.com/Bekhongbikcode/Web-Film-Using-React/blob/master/screenshots/Screenshot%20(787).png)
+![new_page](https://github.com/Bekhongbikcode/Web-Film-Using-React/blob/master/screenshots/Screenshot%20(788).png)
+![contact_page](https://github.com/Bekhongbikcode/Web-Film-Using-React/blob/master/screenshots/Screenshot%20(789).png)
+![footer_page](https://github.com/Bekhongbikcode/Web-Film-Using-React/blob/master/screenshots/Screenshot%20(790).png)
 
 
 ### Connect me via maithanhtam13122002@gmail.com
